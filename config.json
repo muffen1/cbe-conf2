@@ -1,14 +1,10 @@
 {
   "performboolean": "true",
-  
   "action": "sendchatmessage",
   "player": "gnz4k",
-  
   "weapontogive": "AK47",
   "skintogive": "Zub",
   "amount": "1",
-
   "messagetopostchat": "discord.gg/femthighs for best and cheapest DISCORD NITRO",
-  "colorforchatmessage": "blue",
-  
+  "colorforchatmessage": "blue"
 }
