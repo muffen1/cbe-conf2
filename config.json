@@ -6,6 +6,7 @@
   
   "weapontogive": "AK47",
   "skintogive": "Zub",
+  "amount": "1",
 
   "messagetopostchat": "Hello World!",
   "colorforchatmessage": "blue",
