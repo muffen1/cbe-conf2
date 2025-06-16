@@ -1,5 +1,13 @@
 {
-  "EnableFireworks": true,
-  "WelcomeText": "SUMMER EVENT TIME!",
-  "DamageMultiplier": 1.5
+  "performboolean": "true",
+  
+  "action": "giveskin",
+  "player": "gnz4k",
+  
+  "weapontogive": "AK47",
+  "skintogive": "Zub",
+
+  "messagetopostchat": "Hello World!",
+  "colorforchatmessage": "blue",
+  
 }
